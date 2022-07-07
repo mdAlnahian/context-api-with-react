@@ -1,0 +1,21 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 16px 0px;
+    border-bottom: 3px solid #1E90C2;
+}
+
+.nav-container img {
+    width: 80%;
+}
+
+.nav-link a{
+    text-decoration: none;
+    margin-left: 18px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #1E90C2;
+}
